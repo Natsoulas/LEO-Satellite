@@ -16,7 +16,7 @@ Calendar progress goals:
   
   -finish by Jan 23 the absolute latest
   
-  [break until thanksgiving break]
+  [break until after thanksgiving break]
   
   During holiday break:
     
