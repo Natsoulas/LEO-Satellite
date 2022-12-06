@@ -4,19 +4,6 @@ LEO Satellite 6-DOF Simulation implemented in C++ with project setup/build in C-
 Featuring Attitude Control, Orbit Control/station-keeping, and optimization for RCS thruster usage.
 
 (Currently In Development), (I expect to be finished by the new year) (life got in the way)
-
-
-Calendar progress goals:
-  
-  -by Dec 15 fully setup attitude portion of sim (does not include testing)
-  
-  -by Dec 17 have orbit controller/stationkeeping controller setup
-  
-  -by December 1st be in tuning phase
-  
-  -finish by Jan 23 the absolute latest
-  
-  [break until after thanksgiving break]
   
   During holiday break:
     
