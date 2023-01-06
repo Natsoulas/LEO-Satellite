@@ -5,14 +5,6 @@ Featuring Attitude Control, Orbit Control/station-keeping, and optimization for 
 
 (Currently In Development), (I expect to be finished by the new year) (life got in the way)
   
-  During holiday break:
-    
-    -setup orbit portion of sim for a simple circular LEO Orbit, no need to setup realistic perturbations just yet
-    
-    -setup VUW attitude frame as reference frame
-    
-    -work on making an in house r,v to keplerian elements conversion software in C++ to implement in this sim
-  
 
 
 Development progress log:
